@@ -1,9 +1,10 @@
-
 # ZaöRV/HJIL Citation Style for Zotero
  
 Citation style (CSL, footnote style) for the *Zeitschrift für ausländisches öffentliches Recht und Völkerrecht* (ZaöRV) and the *Heidelberg Journal of International Law* (HJIL). One file serves both language versions: the footnote format follows the **document language** set in Zotero (Deutsch → Zitierrichtlinien; English or any other language → Style Sheet).
  
 Zitierstil (CSL, Fußnotenstil) für die ZaöRV und das HJIL. Eine Datei für beide Sprachfassungen: Die Fußnoten folgen der in Zotero eingestellten **Dokumentsprache** (Deutsch → Zitierrichtlinien; English oder jede andere Sprache → Style Sheet).
+ 
+**Citation guidelines / Zitierrichtlinien:** [Guidelines for authors (English)](https://www.nomos.de/en/journals/zaoerv/#guidelines-for-authors) · [Autorenhinweise (Deutsch)](https://www.nomos.de/zeitschriften/zaoerv/#autorenhinweise)
  
 **Contents / Inhalt:** [English guide](#english-guide) · [Deutsche Anleitung](#deutsche-anleitung)
  
@@ -210,6 +211,7 @@ Die folgenden Felder werden unverändert ausgegeben und müssen daher in der Spr
 ---
  
 ## License and Acknowledgement
-License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 The creation of this style was assisted by Claude Sonnet 5.5.
+ 
  
